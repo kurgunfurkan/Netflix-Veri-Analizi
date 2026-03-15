@@ -18,7 +18,7 @@ Bu proje, Netflix veri seti kullanılarak SQL Server üzerinde veri temizleme, n
 
 ## Kullanım
 1. SQL Server Management Studio açın.
-2. `netflix_analysis.sql` dosyasını çalıştırın.
+2. `netflix_veri_analizi.sql` dosyasını çalıştırın.
 3. Tablolar oluşturulacak ve veri temizleme işlemleri tamamlanacak.
 4. Hazır tablolar üzerinden örnek analiz sorgularını çalıştırabilirsiniz.
 
